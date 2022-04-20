@@ -1,0 +1,50 @@
+
+
+header {
+  background-color: black ;
+  width: 100% ;
+  height: 200px;
+}
+body {
+  background-color: yellow}
+
+
+footer {
+background-color: Red ;
+width: 100% ;
+height: 200px ;
+}
+
+#az {
+background-color:  black;
+color: white; }
+
+#b {
+  background-color: red;
+  color: DarkGreen;
+}
+
+#c {
+background-color:  Lawngreen;
+color: brown; }
+
+ #d {
+ background-color:  Navy;
+ color: gold; }
+
+ #e {
+ background-color:  blueviolet;
+ color: chocolate; }
+
+ #f {
+ background-color:  orange ;
+ color: hotpink; }
+
+ #g {
+ background-color:  saddlebrown;
+ color: purple; }
+
+ #h
+ {
+ background-color:  indigo;
+ color: gray; }
